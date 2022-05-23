@@ -83,6 +83,7 @@ body {
 }
 
 .section {
+  margin-top: 20px;
   padding-bottom: 100px;
 }
 
@@ -233,6 +234,7 @@ body {
 
 .upside {
   margin-bottom: 70px;
+  margin-top: 40px;
 }
 
 .upside__title {
@@ -245,6 +247,7 @@ body {
 }
 
 .upside__span {
+  margin-top: 140px;
   display: block;
   font-family: var(--fontRedHat);
   font-weight: bold;
@@ -294,15 +297,15 @@ body {
 }
 
 .contagion .card__title {
+  text-align: center;
   margin-top: 30px;
+  margin-left: 10px;
   font-weight: bold;
   font-size: 20px;
   line-height: 147%;
   text-transform: capitalize;
-  color: #035755;
-  display: -webkit-box;
-  -webkit-line-clamp: 1;
-  overflow: hidden;
+  color: #4f0252;
+  display: inline-block;
 }
 
 .contagion .card__desc {
