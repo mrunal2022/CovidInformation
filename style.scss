@@ -240,7 +240,7 @@ body{
 
 .upside{
     margin-bottom: 70px;
-    margin-top: 40px;
+    margin-top: 18px;
 
 
     &__title{
@@ -249,11 +249,11 @@ body{
         font-size: 20px;
         text-align: center;
         color: #FA5652;
-        margin-top: 40px;
+        margin-top: 15px;
     }
 
     &__span{
-        margin-top: 140px;
+        margin-top: 100px;
         display: block;
         font-family: var(--fontRedHat);
         font-weight: bold;
@@ -279,7 +279,6 @@ body{
     .card{
         box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.08);
         border-radius: 10px;
-        margin-bottom: 30px;
         text-align: center;
         padding: 40px 30px 60px;
         min-height: 450px;
